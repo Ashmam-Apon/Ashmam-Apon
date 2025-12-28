@@ -1,5 +1,16 @@
-# 💫 About Me:
-Currently working on project based Website Development job at Shahadat Shaharear & Kibria<br>Chartered Accountants.<br>Looking for collaboration on Web Apps develop and launch projects, AI model train projects.<br>Looking for help with my Digital Service startup.<br>I am currently practicing Machine Learning.<br>Ask me about my future goal and interests.<br>Fun fact, I am eager to work hard but my introvert nature is my obstacle.
+💫 About Me
+I am a passionate Web Developer currently working on project-based solutions for Shahadat Shaharear & Kibria Chartered Accountants. I blend technical expertise with an entrepreneurial spirit, constantly seeking new ways to innovate in the digital space.
+
+🔭 Currently Working On: Building a Digital Service startup and refining my Full Stack skills.
+
+🌱 Learning: Deep diving into Machine Learning and AI model training.
+
+🤝 Looking to Collaborate On: Web App development, AI/ML projects, and startup ideas.
+
+💬 Ask Me About: My roadmap for the future, web technologies, and digital services.
+
+⚡ Fun Fact: I am a dedicated hard worker who believes in letting the quality of my code speak for itself.
+
 
 
 ## 🌐 Socials:
